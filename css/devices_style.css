@@ -1,0 +1,125 @@
+body {
+    background-color: #e9e5af;
+    margin: auto;
+    width: 60%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    /* border: 2px rgb(91, 99, 49) solid; */
+    box-sizing: border-box;
+    
+}
+
+
+.top {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    /* border: 2px darkgreen solid; */
+    box-sizing: border-box;
+    padding-bottom: 10px;
+}
+
+.lab_menu {
+    /* border: 2px grey solid; */
+    box-sizing: border-box;
+    padding-bottom: 100px;
+    
+}
+
+a{
+    color: rgb(44, 44, 44);
+    text-decoration: none;
+}
+
+
+#top_but {
+    float: left;
+    width: 20%;
+    background: -webkit-gradient(radial, left bottom, 50, left bottom, 150, from(#5f5f5f), to(#d3d3d3));
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 0.3em;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+    /* border: 1px red solid; */
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+
+#left_menu {
+    /* padding-top: 100px; */
+    float: left;
+}
+
+#but_part {
+    
+}
+
+.left_but {
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 50, from(#535353), to(#e9e5af));
+    text-align: center;
+    /* border: 2px #e9e5af; */
+    /* background-color: green; */
+    
+    width: 100px;
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    margin: left;
+    padding: 20px;
+    font-weight: bolder;
+}
+
+.container {
+    padding-left: 170px;
+    /* padding-right: 10px; */
+}
+
+.page_title {
+    text-align: center;
+    font-family: 標楷體;
+    font-size: 30px;
+    font-weight: border;
+    background-color: rgb(206, 202, 152);
+    margin-bottom: 50px;
+}
+
+.container {
+    font-family: 標楷體;
+    font-size: 25px;
+}
+
+.box {
+    height: 340px;
+    width: auto;
+    /* border-top: 2px black solid; */
+    border-bottom: 2px black solid;
+}
+
+.block_l {
+    box-sizing: border-box;
+    float: left;
+    height: 340px;
+    width: auto;
+    /* border-top: 2px black solid;
+    border-bottom: 2px black solid; */
+}
+
+#image {
+    padding: 20px;
+    float: left;
+    /* border-top: 2px black solid;
+    border-bottom: 2px black solid; */
+}
+
+.block_r {
+    box-sizing: border-box;
+    float: left;
+    padding-left: 30px;
+    height: 340px;
+    width: auto;
+    /* border-top: 2px black solid;
+    border-bottom: 2px black solid; */
+}
