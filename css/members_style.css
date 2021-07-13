@@ -88,10 +88,15 @@ a{
     /* padding-right: 10px; */
 }
 
+hr {
+    background-color: black;
+    border: none;
+    height: 1px;
+}
 
 table {
-    border-bottom: 1px black solid;
-    width: 100%;
+    /* border-bottom: 1px black solid; */
+    /* width: 100%; */
     font-size: 30px;
 }
 
@@ -116,8 +121,4 @@ td {
 
 #title {
     width: 100px;
-}
-
-#details {
-    width: auto;
 }
