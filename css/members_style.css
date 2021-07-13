@@ -58,19 +58,7 @@ a{
     
 }
 
-.left_but {
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 50, from(#535353), to(#e9e5af));
-    text-align: center;
-    /* border: 2px #e9e5af; */
-    /* background-color: green; */
-    
-    width: 100px;
-    font-size: 30px;
-    letter-spacing: 0.1em;
-    margin: left;
-    padding: 20px;
-    font-weight: bolder;
-}
+
 
 .page_title {
     text-align: center;
@@ -82,7 +70,7 @@ a{
 }
 
 .container {
-    padding-left: 170px;
+    /* padding-left: 170px; */
     font-family: 標楷體;
     font-size: 20px;
     /* padding-right: 10px; */

@@ -49,38 +49,16 @@ a{
 }
 
 
-#left_menu {
-    /* padding-top: 100px; */
-    float: left;
-}
-
-#but_part {
-    
-}
-
-.left_but {
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 50, from(#535353), to(#e9e5af));
-    text-align: center;
-    /* border: 2px #e9e5af; */
-    /* background-color: green; */
-    
-    width: 100px;
-    font-size: 30px;
-    letter-spacing: 0.1em;
-    margin: left;
-    padding: 20px;
-    font-weight: bolder;
-}
 
 .container {
-    padding-left: 170px;
+    /* padding-left: 170px; */
     /* padding-right: 10px; */
 }
 
 .page_title {
     text-align: center;
     font-family: 標楷體;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: border;
     background-color: rgb(206, 202, 152);
     margin-bottom: 50px;
