@@ -88,9 +88,10 @@ a{
     /* padding-right: 10px; */
 }
 
+
 table {
-    /* border: 2px black solid; */
-    width: auto;
+    border-bottom: 1px black solid;
+    width: 100%;
     font-size: 30px;
 }
 
@@ -115,4 +116,8 @@ td {
 
 #title {
     width: 100px;
+}
+
+#details {
+    width: auto;
 }
