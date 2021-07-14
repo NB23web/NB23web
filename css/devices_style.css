@@ -69,35 +69,38 @@ a{
     font-size: 25px;
 }
 
-.box {
-    height: 340px;
-    width: auto;
-    /* border-top: 2px black solid; */
-    border-bottom: 1px black solid;
+hr {
+    background-color: black;
+    border: none;
+    height: 1px;
 }
 
-.block_l {
+.image {
+    padding: 30px;
+    /* border: 2px black solid; */
     box-sizing: border-box;
-    float: left;
-    height: 340px;
-    width: auto;
-    /* border-top: 2px black solid;
-    border-bottom: 2px black solid; */
 }
 
-#image {
-    padding: 20px;
-    float: left;
-    /* border-top: 2px black solid;
-    border-bottom: 2px black solid; */
+.video {
+    /* margin: auto; */
+    /* padding: 30px; */
+    /* border: 2px black solid; */
 }
 
-.block_r {
-    box-sizing: border-box;
-    float: left;
+#titles {
     padding-left: 30px;
-    height: 340px;
-    width: auto;
-    /* border-top: 2px black solid;
-    border-bottom: 2px black solid; */
+    padding-right: 30px;
+    /* border: 2px black solid; */
+    font-size: 30px;
+    box-sizing: border-box;
+    height: 100px;
+    
+}
+
+#details {
+    height: 180px;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    /* border: 2px black solid; */
 }
