@@ -80,69 +80,8 @@ a{
 .page_title {
     text-align: center;
     font-family: 標楷體;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: border;
     background-color: rgb(206, 202, 152);
     margin-bottom: 50px;
-}
-
-.home_pic {
-    margin: auto;
-    display: flex;
-    align-items: center;
-}
-
-/* .teacher_pic {
-    float: left;
-    margin: auto;
-    margin-right: 30px;
-} */
-
-#teacher_intro {
-    font-size: 20px;
-    font-weight: normal;
-    font-family: 標楷體;
-    padding-top: 30px;
-    
-    
-}
-#teacher_display {
-    float:left;
-}
-
-
-
-#teacher_title {
-    margin-left: 30px;
-    float: left;
-    width: 20%;
-    height: 380px;
-    line-height: 1.5em;
-    /* width: 250px; */
-    text-align: left;
-    font-family: 標楷體;
-    /* font-weight: bolder; */
-    font-size: 20px;
-    line-height: 1em;
-}
-
-#teacher_content {  
-    float: left;
-    /* width: 40%; */
-    height: 350px;
-    line-height: 1.5em;
-    text-align: left;
-    font-family: 標楷體;
-    /* font-weight: bold; */
-    font-size: 20px;
-    line-height: 1em;
-}
-
-.teacher_info {
-    width: 250px;
-    text-align: center;
-    font-family: 標楷體;
-    font-weight: bolder;
-    font-size: 25px;
-    line-height: 0.5em;
 }
