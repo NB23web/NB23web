@@ -146,3 +146,19 @@ a{
     font-size: 25px;
     line-height: 0.5em;
 }
+
+td {
+    font-family: 標楷體;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+tr {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#title {
+    width: 200px;
+    padding-left: 50px;
+}
